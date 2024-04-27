@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "removeComments": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "app/**/*"
+    ]
+}
